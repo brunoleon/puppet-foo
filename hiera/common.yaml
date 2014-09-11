@@ -1,0 +1,4 @@
+---
+foo::databinding::bar:
+    - 2
+    - 3
